@@ -6,7 +6,10 @@ La empresa Telecom X enfrentaba una alta tasa de abandono de clientes y necesita
 
 #Objetivos de este desafío: Además del objetivo general, se te pedirá que apliques los conceptos de aprendizaje desarrollados en el curso Estadisticas y Modelos Predictivos G9 - ONE.
 Los resultados de los análisis, conclusiones y recomendaciones se encuentran en el mismo Notebook. Pero te muestro algunas imagenes de las mismas:
-![Distribución de Churn Trimestral](https://github.com/TechWithEva/Telecom-X-Challenge2-G9/blob/main/ImageTelecomX_Analisis/RateTrimestralChurn.png)
+![Distribución de Churn Trimestral](https://github.com/TechWithEva/Telecom-X-Challenge3-G9/blob/main/ImageTelecomX_Analisis/Matriz%20de%20correlaci%C3%B3n.jpg)
+![Distribución de Churn Trimestral](https://github.com/TechWithEva/Telecom-X-Challenge3-G9/blob/main/ImageTelecomX_Analisis/Chi2.jpg)
+![Distribución de Churn Trimestral](https://github.com/TechWithEva/Telecom-X-Challenge3-G9/blob/main/ImageTelecomX_Analisis/Matriz%20de%20confusi%C3%B3n.jpg)
+![Distribución de Churn Trimestral](https://github.com/TechWithEva/Telecom-X-Challenge3-G9/blob/main/ImageTelecomX_Analisis/Selecci%C3%B3n%20de%20modelo.jpg)
 
 ## Diccionario de datos
 
